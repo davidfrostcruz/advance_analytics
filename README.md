@@ -4,7 +4,7 @@ Advance Analytics Course. Master in Statistics and Data Science KU Leuven
 
 The repository contains the 4 assignments. 
 
-Assignment 1:  predictive modeling on tabular data. Check file [on the model training](assignment1_model_training_c.ipynb) and [the use of the model in test data](assignment1_model_training_c.ipynb). 
+Assignment 1:  predictive modeling on tabular data. Check file [on the model training](assignment1_model_training_c.ipynb) and [the use of the model in test data](assignment1_testing_data.ipynb). 
 
 Assignment 2: deep learning on images. Check the model training and predictions [here](Assignment2_code.ipynb). 
 
